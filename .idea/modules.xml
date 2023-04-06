@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-26/arkadasSayi/arkadasSayi.iml" filepath="$PROJECT_DIR$/1-26/arkadasSayi/arkadasSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-26/arrays/arrays.iml" filepath="$PROJECT_DIR$/1-26/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-26/asal/asal.iml" filepath="$PROJECT_DIR$/1-26/asal/asal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-26/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/1-26/conditionals/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-26/dataTypes/dataTypes.iml" filepath="$PROJECT_DIR$/1-26/dataTypes/dataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/etiya.iml" filepath="$PROJECT_DIR$/.idea/etiya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-26/hello/hello.iml" filepath="$PROJECT_DIR$/1-26/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-26/loop/loop.iml" filepath="$PROJECT_DIR$/1-26/loop/loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-26/methods/methods.iml" filepath="$PROJECT_DIR$/1-26/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-26/mukemmelSayi/mukemmelSayi.iml" filepath="$PROJECT_DIR$/1-26/mukemmelSayi/mukemmelSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-26/strings/strings.iml" filepath="$PROJECT_DIR$/1-26/strings/strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-26/switchCase/switchCase.iml" filepath="$PROJECT_DIR$/1-26/switchCase/switchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-26/variables/variables.iml" filepath="$PROJECT_DIR$/1-26/variables/variables.iml" />
+    </modules>
+  </component>
+</project>
